@@ -1,0 +1,15 @@
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\bin\Debug\KTP01.exe.config
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\bin\Debug\KTP01.exe
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\bin\Debug\KTP01.pdb
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\bin\Debug\MetroFramework.Design.dll
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\bin\Debug\MetroFramework.dll
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\obj\Debug\KTP01.csprojAssemblyReference.cache
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\obj\Debug\KTP01.Form1.resources
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\obj\Debug\KTP01.Properties.Resources.resources
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\obj\Debug\KTP01.csproj.GenerateResource.cache
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\obj\Debug\KTP01.csproj.CopyComplete
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\obj\Debug\KTP01.exe
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\obj\Debug\KTP01.pdb
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\bin\Debug\FakeData.dll
+C:\Users\can\Desktop\WGScjHvm\KTP01\KTP01\bin\Debug\FakeData.pdb
